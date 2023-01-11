@@ -18,4 +18,4 @@ How to install:
 The scripts in Ruby274 were  run using the Scite editor on Windows 10.
 The browser was Firefox.
 
-Licensing: "zal_dict.txt": CC-BY-NC; other files: MIT
+Licensing: "zal_dict.txt", "zal_index.txt": CC-BY-NC; other files: MIT
