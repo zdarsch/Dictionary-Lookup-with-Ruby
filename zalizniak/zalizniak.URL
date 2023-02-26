@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=javascript:(function(){s=document.getSelection().toString();if(!s||s=='')s=prompt('Type%20word:','');if(s)window.open('http://localhost:8080/zalizniak?word='+s);})();
